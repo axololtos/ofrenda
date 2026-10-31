@@ -1,0 +1,3 @@
+httpx>=0.27
+temporalio>=1.5
+sentry-sdk>=2.0
